@@ -15,6 +15,13 @@ Tel:095-336-4779
 
 E-mail: chanchakorn45@gmail.com
 
+## Hobbies & Interests
+ดูหนัง
+
+ฟังเพลง
+
+เล่นดนตรี
+
 ## Education
 จบระดับชั้นอนุบาลจาก:โรงเรียนอนุบาลโรจนวิทย์ จังหวัดพิษณุโลก
 
@@ -28,3 +35,6 @@ E-mail: chanchakorn45@gmail.com
 2563 ทำหน้าที่พนักงานธนาคาร ให้กับธนาคารโรงเรียนเฉลิมขวัญสตรี
 
 2563 เข้าร่วมแข่งขัน โครงการ DESIGN HERO : THE NEW NORMAL เข้ารอบ 10 ทีมสุดท้าย
+## Skills
+Python  basic
+Piano   basic
