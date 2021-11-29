@@ -1,6 +1,6 @@
 # DIGITAL CV
 ## ประวัติส่วนตัว
-![858767f592958772004c632d88eaaf23.jpg](https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg width ="200"height ="250")
+![858767f592958772004c632d88eaaf23.jpg]<img scr="https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg"width="200"height="250">
 นางสาวชัญชกร ยาเภา อายุ 19 ปี
 
 Tel:095-336-4779
