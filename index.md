@@ -1,5 +1,7 @@
 # Chanchakorn Yapao
+
 ![858767f592958772004c632d88eaaf23.jpg](https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg)
+
 ## Personal information
 ชื่อ:นางสาวชัญชกร ยาเภา 
 
@@ -37,6 +39,7 @@ E-mail: chanchakorn45@gmail.com
 
 2563 เข้าร่วมแข่งขัน โครงการ DESIGN HERO : THE NEW NORMAL เข้ารอบ 10 ทีมสุดท้าย
 ## Skills
+
 Python|basic
 
 Microsoft Word|basic
