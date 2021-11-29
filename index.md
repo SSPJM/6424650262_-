@@ -1,17 +1,18 @@
 # DIGITAL CV
-## ประวัติส่วนตัว
-![858767f592958772004c632d88eaaf23.jpg]<img scr="https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg"width="200"height="250">
-นางสาวชัญชกร ยาเภา อายุ 19 ปี
-
-Tel:095-336-4779
-
-E-mail: chanchakorn45@gmail.com
+## Personal information
+![858767f592958772004c632d88eaaf23.jpg](https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg)
+นางสาวชัญชกร ยาเภา อายุ 19 ปี 
 
 จบการศึกษาระดับชั้นมัธยมศึกษาจากโรงเรียนเฉลิมขวัญสตรี จังหวัดพิษณุโลก
 
 กำลังศึกษาระดับอุดมศึกษาที่มหาวิทยาลัยธรรมศาสตร์
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact information
+Address: 365/21 ม.10 ซ.พวงเพชร ต.บึงพระ อ.เมือง จ.พิษณุโลก 65000
+
+Tel:095-336-4779
+
+E-mail: chanchakorn45@gmail.com
 
 ### Markdown
 
