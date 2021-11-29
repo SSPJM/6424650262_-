@@ -36,6 +36,10 @@ E-mail: chanchakorn45@gmail.com
 
 2563 เข้าร่วมแข่งขัน โครงการ DESIGN HERO : THE NEW NORMAL เข้ารอบ 10 ทีมสุดท้าย
 ## Skills
-Python   ✔️basic
+Python|basic
 
-Piano    ✔️basic
+Microsoft Word|basic
+
+Microsoft Excel|basic
+
+Microsoft PowerPoint|basic
