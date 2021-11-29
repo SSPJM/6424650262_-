@@ -1,6 +1,11 @@
-## Welcome to GitHub Pages
+# DIGITAL CV
+## ประวัติส่วนตัว
 
-You can use the [editor on GitHub](https://github.com/SSPJM/6424650262_-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+สวัสดีค่ะ ดิฉันชื่อ นางสาวชัญชกร ยาเภา อายุ 19 ปี
+
+จบการศึกษาระดับชั้นมัธยมศึกษาจากโรงเรียนเฉลิมขวัญสตรี จังหวักพิษณุโลก
+
+กำลังศึกษาระดับอุดมศึกษาที่มหาวิทยาลัยธรรมศาสตร์
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
