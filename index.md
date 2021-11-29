@@ -1,5 +1,6 @@
-## Personal information
+# Chanchakorn Yapao
 ![858767f592958772004c632d88eaaf23.jpg](https://img.in.th/images/858767f592958772004c632d88eaaf23.jpg)
+## Personal information
 ชื่อ:นางสาวชัญชกร ยาเภา 
 
 เกิด: 27 สิงหาคม 2545 อายุ 19 ปี 
