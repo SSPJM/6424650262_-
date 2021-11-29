@@ -39,7 +39,7 @@ E-mail: chanchakorn45@gmail.com
 
 2562 เข้าร่วมกิจกรรมค่าย Creative Business
 
-2563 เข้าร่วมแข่งขัน โครงการ DESIGN HERO : THE NEW NORMAL เข้ารอบ 10 ทีมสุดท้าย
+2563 เข้าร่วมแข่งขัน โครงการ DESIGN HERO : THE NEW NORMAL จัดแข่งขันโดย สสส. เข้ารอบ 10 ทีมสุดท้าย
 
 ## Skills
 Python
